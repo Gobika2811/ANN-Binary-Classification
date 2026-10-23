@@ -1,0 +1,25 @@
+ANN BINARY CLASSIFICATION RESULTS
+========================================
+Dataset samples: 500
+Training samples: 400
+Testing samples: 100
+
+1. Accuracy: 0.9400 (94.00%)
+2. Precision: 0.9231
+3. Recall: 0.9600
+4. F1-Score: 0.9412
+5. Confusion Matrix:
+[[46  4]
+ [ 2 48]]
+6. Specificity: 0.9200
+7. MCC: 0.8807
+8. RMSE: 0.2449
+
+              precision    recall  f1-score   support
+
+           0       0.96      0.92      0.94        50
+           1       0.92      0.96      0.94        50
+
+    accuracy                           0.94       100
+   macro avg       0.94      0.94      0.94       100
+weighted avg       0.94      0.94      0.94       100
